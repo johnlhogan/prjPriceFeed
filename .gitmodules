@@ -1,0 +1,3 @@
+[submodule "cpppricefeed"]
+	path = cpppricefeed
+	url = https://github.com/johnlhogan/cpppricefeed.git
